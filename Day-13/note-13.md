@@ -13,3 +13,13 @@
   HTML injection is a security vulnerability that allows attackers to inject malicious HTML code into web pages that other users can view. 
   This attack targets the markup language that most websites use
 </p>
+
+<h2>Intrusion detection systems (IDS) and intrusion prevention systems (IPS)</h2>
+<dl>IDS</dl>
+<dd>
+  A passive system that detects attacks and techniques, such as malware, unauthorized access attempts, and unusual traffic patterns. IDS can also identify problems with security policies and deter individuals from violating them. However, IDS can leave a window for an attacker to cause damage to a target system, and it can also generate false positives.
+</dd>
+<br><dl>IPS</dl>
+<dd>
+  An active control system that can both detect and prevent intrusions. IPS automatically blocks threats based on predefined security policies or rules, such as dropping malicious packets, blocking access to malicious websites, or triggering other security measures. However, a false positive detection by an IPS can negatively impact system usability. 
+</dd>
